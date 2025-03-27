@@ -1,0 +1,1 @@
+# nextJSAuth0
